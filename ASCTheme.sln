@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCTheme", "ASCTheme\ASCTheme.csproj", "{FDEA7E48-1CE1-4771-A8B1-49EBD84EC7AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDEA7E48-1CE1-4771-A8B1-49EBD84EC7AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDEA7E48-1CE1-4771-A8B1-49EBD84EC7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDEA7E48-1CE1-4771-A8B1-49EBD84EC7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDEA7E48-1CE1-4771-A8B1-49EBD84EC7AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96BB3E84-58B1-46C7-81EF-51CAA88A0161}
+	EndGlobalSection
+EndGlobal
